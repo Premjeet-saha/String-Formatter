@@ -1,4 +1,5 @@
 // 4. String Formatter
+
 function cleanText(text) {
     return text.trim();
 }
