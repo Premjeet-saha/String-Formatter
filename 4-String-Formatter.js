@@ -21,5 +21,5 @@ function formatDisplayName(firstName, lastName) {
 }
 //Output
 console.log(formatDisplayName(' prem', 'SAHA  '));
-console.log(formatDisplayName('KIM', '  jon',' un  '));
+console.log(formatDisplayName('KIM', '  jon'));
 console.log(formatDisplayName('  MAdhuri  ', 'dixit'));
